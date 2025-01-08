@@ -1,2 +1,2 @@
 # WaffleStack-AppCoder.github.io
-college lol
+college github file, VIF (Very Important File)
