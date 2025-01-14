@@ -5,13 +5,21 @@ Hi, Class! I'm very happy to join this Class and learn GitHub, Web Technologies,
 #ABOUT ME
 
 ##My interests:
+
 *Music Singing, Guitar, Piano, Music Production
+
+
 *Technology Web Development, C++ and Game Development
 
 ##My Favorite Foods:
+
+
 *Tofu
+
 *French Fries
+
 *Chicken Nuggets
+
 *Crabs
 
 
